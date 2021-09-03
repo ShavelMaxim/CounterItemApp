@@ -1,0 +1,18 @@
+.counter-item-form {
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.counter-item-form-span {
+    font-size: 25px;
+    font: gray;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    margin-right: 15px;
+    margin-left: 15px;
+    border-radius: 25px/10px;
+}
